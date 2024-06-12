@@ -1,0 +1,71 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.project
+{
+    color: white;
+    margin-left: 5%;
+    height: 70vh;
+    margin-top: 5%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 2%;
+    
+}
+
+
+
+
+.black
+{
+    color: white;
+    background-color: white;
+    opacity: 100%;
+    width: 25%;
+    height: 50vh;
+    margin-top: 3%;
+    border-radius: 10px;
+  
+   
+   
+}
+
+.i
+{
+    margin-left: 7%;
+    margin-top: 3%;
+}
+
+.h
+{
+    color: black;
+    margin-left: 30%;
+    margin-top: 1%;
+}
+
+.paar
+{
+    color: black;
+    font-size: 24px;
+}
+
+.btn
+{
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 18%;
+    margin-top: 5%;
+}
+
+.view 
+{
+    margin-top: -34%;
+  
+}

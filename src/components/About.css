@@ -1,0 +1,93 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    background: rgba(12, 12, 12, 0.6);
+    width: 80%;
+    height: 95vh;
+    border-radius: 25px;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+
+
+.heading
+{
+    color: white;
+    padding-top: 5%;
+    margin-left: 2%;
+
+}
+
+.arrow
+{
+    display: flex;
+    color: white;
+    margin-left: 51%;
+    margin-top: -45%;
+    align-items: center;
+}
+
+.arrow:hover{
+    
+    background: linear-gradient(90deg, rgba(165, 215, 232, 0.42) -60.08%, rgba(255, 255, 255, 0) 66.02%);
+    
+}
+
+.content{
+    width: 400px;
+    margin-left: 55%;
+}
+
+
+
+
+.p1{
+    color: white;
+    word-wrap: break-word;
+}
+
+.server
+{
+    margin-left: 52%;
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+}
+
+.server:hover{
+    background: linear-gradient(90deg, rgba(165, 215, 232, 0.42) -60.08%, rgba(255, 255, 255, 0) 66.02%);
+}
+
+.h2
+{
+    color: white;
+}
+
+.p2
+{
+    color: white;
+}
+
+.ui{
+display: flex;
+align-items: center;
+color: white;
+margin-left: 52%;
+margin-top: 2%;
+}
+
+.ui:hover
+{
+    background: linear-gradient(90deg, rgba(165, 215, 232, 0.42) -60.08%, rgba(255, 255, 255, 0) 66.02%);
+}
+
+.p3
+{
+    color: white;
+}
